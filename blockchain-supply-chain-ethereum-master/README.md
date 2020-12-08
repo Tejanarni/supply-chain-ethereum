@@ -1,4 +1,4 @@
-# SupplyChain Mayank Gupta
+# SupplyChain
 ## Setup
 **IMPORTANT**: You need to have npm and truffle already installd
 1. Checkout the GitHub Repo
