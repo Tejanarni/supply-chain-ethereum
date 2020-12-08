@@ -3,7 +3,7 @@
 **IMPORTANT**: You need to have npm and truffle already installd
 1. Checkout the GitHub Repo
 ```
-$ git clone https://github.com/Mayank0307/blockchain-real-estate-ethereum.git
+$ git clone https://github.com/Tejanarni/supply-chain-ethereum/edit/main/blockchain-supply-chain-ethereum-master/
 ```
 2. Install dependencies using npm
 ```
